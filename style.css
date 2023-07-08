@@ -1,0 +1,64 @@
+.header {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  #taskList .task-container {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #taskList h5 {
+    margin-bottom: 10px;
+  }
+  
+  #taskList p {
+    margin: 15px;
+  }
+
+  #taskList button {
+    margin-top: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #5f27cd;
+    border-color: #5f27cd;
+  }
+  
+  .btn-primary:hover {
+    background-color: #4c1d95;
+    border-color: #4c1d95;
+  }
+  
+  .btn-danger {
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c0392b;
+    border-color: #c0392b;
+  }
+  
